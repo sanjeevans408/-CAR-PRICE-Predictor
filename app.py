@@ -316,9 +316,9 @@ def load_data():
         return pd.DataFrame()
 
 =======
-Interactive Car Price Predictor demo app.
-Run locally with:  streamlit run app.py
-This is the screen you'll want to screen-record for your LinkedIn video.
+#Interactive Car Price Predictor demo app.
+#Run locally with:  streamlit run app.py
+#This is the screen you'll want to screen-record for your LinkedIn video.
 """
 import pickle
 import pandas as pd
